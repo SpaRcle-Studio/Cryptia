@@ -6,7 +6,7 @@
 
 namespace Cryptia::Encryption {
     class ECDSA {
-
+    public:
     };
 }
 
